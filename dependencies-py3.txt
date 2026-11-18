@@ -1,1 +1,6 @@
 # LIST YOUR PYTHON3 PACKAGES HERE
+
+# notebook panels (code editor): live parameters, trajectory plots, image views
+ipywidgets
+ipympl
+matplotlib
